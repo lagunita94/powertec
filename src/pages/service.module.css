@@ -1,0 +1,17 @@
+.container {
+    background-image: url('../images/service.jpg');
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    background-position-y: center ;
+}
+
+.container h1 {
+    font-weight: 900;
+    letter-spacing: 2px;
+    z-index: 2;
+    color: #fff;
+    font-size: 70px;
+}

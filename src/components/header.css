@@ -1,0 +1,53 @@
+.custom-nav-bar {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 70.73px;
+    height: 50px;
+    background-image: url('../images/logo.png');
+    background-size: cover;
+}
+
+.branding {
+    display: flex;
+    align-items: center;
+}
+p.brand {
+    margin: 0 !important;
+    letter-spacing: 2px;
+}
+
+.custom-nav {
+    display: flex;
+    width: 850px;
+    flex: 1 1 60%;
+}
+
+.custom-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    width: 850px;
+}
+
+.custom-navbar a {
+    text-decoration: none;
+    color: #333;
+}
+
+.underline {
+    transition: transform 200ms ease-in-out;
+    padding: 0 20px;
+    margin-bottom: 0;
+}
+.underline:hover{
+    cursor: pointer;
+}
+
+a.active {
+    font-weight: bold;
+}
