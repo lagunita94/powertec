@@ -201,7 +201,7 @@ const powertec = () => {
               </ListGroup.Item>
             </ListGroup>
           </Card>
-          <Card className={style.card} style={{ width: "18rem" }}>
+          <Card className={style.card} style={{ width: "24rem" }}>
             <Card.Header>Solar projects</Card.Header>
             <Card.Img variant="top" src={solar} />
             <ListGroup variant="flush">

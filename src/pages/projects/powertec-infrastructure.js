@@ -16,7 +16,7 @@ const infra = () => {
             borderBottom: "2px solid #ff5f13",
           }}
         >
-          <h1>Powertec Infrastructure and Financial Advisory Services Project</h1>
+          <h1>Powertec Infrastructure and Financial Advisory Services Projects</h1>
         </div>
       </Jumbotron>
       <Container fluid>
